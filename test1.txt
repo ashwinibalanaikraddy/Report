@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 327B-F245
+
+ Directory of C:\Users\bng070\Desktop\GitP
+
+08-05-2019  17:52    <DIR>          .
+08-05-2019  17:52    <DIR>          ..
+08-05-2019  17:52                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  47,639,285,760 bytes free
